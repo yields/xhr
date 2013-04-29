@@ -1,0 +1,19 @@
+{
+  "name": "xhr",
+  "version": "0.0.2",
+  "description": "Cross-browser XMLHttpRequest",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yields/xhr.git"
+  },
+  "keywords": [
+    "xhr",
+    "XMLHttpRequest",
+    "ActiveXObject"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yields/xhr/issues"
+  }
+}
